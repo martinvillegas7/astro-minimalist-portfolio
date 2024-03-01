@@ -1,18 +1,18 @@
 {
     "basics": {
-        "name": "Miguel Ángel Durán",
-        "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+        "name": "Martín Villegas Aristizábal",
+        "label": "Front End Developer con más de 2 años de experiencia ",
         "image": "/me.webp",
         "email": "miduga@gmail.com",
-        "phone": "+34 688888888",
+        "phone": "+57 3147682070",
         "url": "https://midu.dev",
-        "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+        "summary": "+2 años de experiencia como Desarrollador Web. Actualmente soy trabajo como Desarrollador Front End. Vivo en Medellín, Colombia.",
         "location": {
             "address": "",
-            "postalCode": "08820",
-            "city": "el Prat de Llobregat",
+            "postalCode": "05001",
+            "city": "Medellín",
             "countryCode": "ES",
-            "region": "España"
+            "region": " Colombia"
         },
         "profiles": [
             {
@@ -28,7 +28,7 @@
             {
                 "network": "GitHub",
                 "username": "midudev",
-                "url": "https://github.com/midudev"
+                "url": "https://github.com/martinvillegas7"
             }
         ]
     },
